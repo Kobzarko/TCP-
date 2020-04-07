@@ -1,0 +1,33 @@
+C:\Users\32171\source\repos\TCP\Client\bin\Debug\Client.exe.config
+C:\Users\32171\source\repos\TCP\Client\bin\Debug\Client.exe
+C:\Users\32171\source\repos\TCP\Client\bin\Debug\Client.pdb
+C:\Users\32171\source\repos\TCP\Client\bin\Debug\TCP.exe
+C:\Users\32171\source\repos\TCP\Client\bin\Debug\TCP.pdb
+C:\Users\32171\source\repos\TCP\Client\bin\Debug\TCP.exe.config
+C:\Users\32171\source\repos\TCP\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\32171\source\repos\TCP\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\32171\source\repos\TCP\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\32171\source\repos\TCP\Client\obj\Debug\Client.exe
+C:\Users\32171\source\repos\TCP\Client\obj\Debug\Client.pdb
+K:\IT STEP\Network programming\TCP\Client\bin\Debug\Client.exe.config
+K:\IT STEP\Network programming\TCP\Client\bin\Debug\Client.exe
+K:\IT STEP\Network programming\TCP\Client\bin\Debug\Client.pdb
+K:\IT STEP\Network programming\TCP\Client\bin\Debug\TCP.exe
+K:\IT STEP\Network programming\TCP\Client\bin\Debug\TCP.pdb
+K:\IT STEP\Network programming\TCP\Client\bin\Debug\TCP.exe.config
+K:\IT STEP\Network programming\TCP\Client\obj\Debug\Client.csprojAssemblyReference.cache
+K:\IT STEP\Network programming\TCP\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+K:\IT STEP\Network programming\TCP\Client\obj\Debug\Client.csproj.CopyComplete
+K:\IT STEP\Network programming\TCP\Client\obj\Debug\Client.exe
+K:\IT STEP\Network programming\TCP\Client\obj\Debug\Client.pdb
+D:\IT STEP\C#\Network programming\TCP\Client\bin\Debug\Client.exe.config
+D:\IT STEP\C#\Network programming\TCP\Client\bin\Debug\Client.exe
+D:\IT STEP\C#\Network programming\TCP\Client\bin\Debug\Client.pdb
+D:\IT STEP\C#\Network programming\TCP\Client\bin\Debug\TCP.exe
+D:\IT STEP\C#\Network programming\TCP\Client\bin\Debug\TCP.pdb
+D:\IT STEP\C#\Network programming\TCP\Client\bin\Debug\TCP.exe.config
+D:\IT STEP\C#\Network programming\TCP\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\IT STEP\C#\Network programming\TCP\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\IT STEP\C#\Network programming\TCP\Client\obj\Debug\Client.csproj.CopyComplete
+D:\IT STEP\C#\Network programming\TCP\Client\obj\Debug\Client.exe
+D:\IT STEP\C#\Network programming\TCP\Client\obj\Debug\Client.pdb

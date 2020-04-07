@@ -1,0 +1,21 @@
+C:\Users\32171\source\repos\TCP\TCP\bin\Debug\TCP.exe.config
+C:\Users\32171\source\repos\TCP\TCP\bin\Debug\TCP.exe
+C:\Users\32171\source\repos\TCP\TCP\bin\Debug\TCP.pdb
+C:\Users\32171\source\repos\TCP\TCP\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\32171\source\repos\TCP\TCP\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\32171\source\repos\TCP\TCP\obj\Debug\TCP.exe
+C:\Users\32171\source\repos\TCP\TCP\obj\Debug\TCP.pdb
+K:\IT STEP\Network programming\TCP\TCP\bin\Debug\TCP.exe.config
+K:\IT STEP\Network programming\TCP\TCP\bin\Debug\TCP.exe
+K:\IT STEP\Network programming\TCP\TCP\bin\Debug\TCP.pdb
+K:\IT STEP\Network programming\TCP\TCP\obj\Debug\Server.csprojAssemblyReference.cache
+K:\IT STEP\Network programming\TCP\TCP\obj\Debug\Server.csproj.CoreCompileInputs.cache
+K:\IT STEP\Network programming\TCP\TCP\obj\Debug\TCP.exe
+K:\IT STEP\Network programming\TCP\TCP\obj\Debug\TCP.pdb
+D:\IT STEP\C#\Network programming\TCP\TCP\bin\Debug\TCP.exe.config
+D:\IT STEP\C#\Network programming\TCP\TCP\bin\Debug\TCP.exe
+D:\IT STEP\C#\Network programming\TCP\TCP\bin\Debug\TCP.pdb
+D:\IT STEP\C#\Network programming\TCP\TCP\obj\Debug\Server.csprojAssemblyReference.cache
+D:\IT STEP\C#\Network programming\TCP\TCP\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\IT STEP\C#\Network programming\TCP\TCP\obj\Debug\TCP.exe
+D:\IT STEP\C#\Network programming\TCP\TCP\obj\Debug\TCP.pdb
